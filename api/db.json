@@ -1,0 +1,35 @@
+{
+  "streams": [
+    {
+      "title": "Test title",
+      "description": "Test description",
+      "id": 3
+    },
+    {
+      "title": "haruki stream",
+      "description": "First take",
+      "id": 2
+    },
+    {
+      "title": "My stream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "Create Stream",
+      "description": "Description new",
+      "id": 4
+    },
+    {
+      "title": "Enter Title No2",
+      "description": "Enter Descriprion No2",
+      "id": 5
+    },
+    {
+      "title": "Stream Show",
+      "description": "tanosimi",
+      "userId": "118230171035390591043",
+      "id": 6
+    }
+  ]
+}
